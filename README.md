@@ -1,19 +1,18 @@
-# IMC CALCULATOR
+# CALCULADORA_IMC
+Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida como parte de um desafio do Bootcamp da DIO (Digital Innovation One) em parceria com o Santander. A aplicação foi construída usando o framework Flutter.
 
-A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+## Funcionalidades
+- Cálculo do IMC com base no peso e altura inseridos.
+- Armazenamento dos registros de IMC usando o Hive, um banco de dados local.
+- Gerenciamento de estado com o Provider.
 
-A few resources to get you started if this is your first Flutter project:
+## Demonstração
+![bloggif_65320ea97d5ac](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/87139a88-e129-423e-9e45-d9a11711bef3)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas:
 
-## Getting Started: FlutLab - Flutter Online IDE
+- Flutter
+- Dart
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
