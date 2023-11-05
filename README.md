@@ -8,7 +8,9 @@ Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 - Gerenciamento de estado com o Provider.
 
 ## Demonstração
-![bloggif_65482140bf1ab](https://github.com/gabrieelfelix/imc_app_calculator/assets/102039571/e74454e1-f27a-403c-9595-a3b21d6b8b4c)
+  ![bloggif_65481f62380d3](https://github.com/gabrieelfelix/imc_app_calculator/assets/102039571/58db5cbf-c7be-4042-a8f4-f323262d8c1e)
+
+
 
 
 
