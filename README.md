@@ -8,7 +8,8 @@ Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 - Gerenciamento de estado com o Provider.
 
 ## Demonstração
-![bloggif_65320ea97d5ac](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/87139a88-e129-423e-9e45-d9a11711bef3)
+![bloggif_65482140bf1ab](https://github.com/gabrieelfelix/imc_app_calculator/assets/102039571/e74454e1-f27a-403c-9595-a3b21d6b8b4c)
+
 
 
 ## Tecnologias Utilizadas:
